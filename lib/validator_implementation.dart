@@ -29,6 +29,6 @@ class ValidatorConnectionState extends State<ValidatorConnection> {
 
   @override
   Widget build(BuildContext ctxt) {
-    return (isOffline) ? const Text("Not connected") : const Text("Connected");
+    return (isOffline) ? const Text("connected") : const Text("Not Connected");
   }
 }
