@@ -16,7 +16,7 @@ git clone https://github.com/bassichetti/connection_validated.git
 
 Demonstrating a screen with connection and another without connection
 
-
+<details>
     <summary><strong>Images App</strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:1;">
@@ -28,3 +28,4 @@ Demonstrating a screen with connection and another without connection
                 <figcaption styles="text-align: center;"></figcaption>
             </figure>
         </div>
+</details>
