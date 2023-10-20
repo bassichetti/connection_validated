@@ -18,3 +18,18 @@ Demonstrating a screen with connection and another without connection
 
 <img src="/assets/connected.jpeg">
 <img src="/assets/disconnected.jpeg">
+
+<details>
+    <summary><strong>Images App</strong></summary>  
+        <div style="display: flex; justify-content:space-between;">
+            <figure style="text-align:center; flex:1;">
+                <img src="/assets/connected.jpeg" alt= "image connected" width="200px"/>
+                <figcaption styles="text-align: center;">Connected</figcaption>
+            </figure>
+            <figure style="text-align:center; flex:1;">
+                <img src="/assets/disconnected.jpeg" alt= "Not connected image" alt="Confident Data Skills" width="200px"/>
+                <figcaption styles="text-align: center;">No Connected</figcaption>
+            </figure>
+        </div>
+
+</details>
