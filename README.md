@@ -1,17 +1,21 @@
 # connection_validated
 
-A new Flutter project.
+Application to demonstrate how it is possible to validate data connections in Flutter using streams and the connectivity package: ^3.0.6.
 
-## Getting Started
+## 🚀 Starting
 
-This project is a starting point for a Flutter application.
+These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+Faça o **[git clone](https://github.com/bassichetti/connection_validated.git)** to be able to work locally on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+git clone https://github.com/bassichetti/connection_validated.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# connection_validated
+### 📋 Demo screens
+
+Demonstrating a screen with connection and another without connection
+
+```
+<img src="/assets/connected.jpeg">
+```
