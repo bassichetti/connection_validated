@@ -16,6 +16,4 @@ git clone https://github.com/bassichetti/connection_validated.git
 
 Demonstrating a screen with connection and another without connection
 
-```
 <img src="/assets/connected.jpeg">
-```
