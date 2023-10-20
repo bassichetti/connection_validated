@@ -17,7 +17,7 @@ git clone https://github.com/bassichetti/connection_validated.git
 Demonstrating a screen with connection and another without connection
 
 <details>
-    <summary><strong>Images App</strong></summary>  
+  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:1;">
                 <img src="/assets/connected.jpeg" alt= "image connected" width="200px"/>
